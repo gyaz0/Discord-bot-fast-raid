@@ -4,7 +4,6 @@ from os import _exit
 from time import sleep
 from datetime import datetime
 import base64
-from pypresence import Presence
 import time
 
 
